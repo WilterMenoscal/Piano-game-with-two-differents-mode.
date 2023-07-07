@@ -1,0 +1,8 @@
+C:\Users\Jhoel\source\repos\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.AssemblyReference.cache
+C:\Users\Jhoel\source\repos\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jhoel\source\repos\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto_Piano.Form1.resources
+C:\Users\Jhoel\source\repos\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.GenerateResource.cache
+C:\Users\wilte\OneDrive\Escritorio\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.AssemblyReference.cache
+C:\Users\wilte\OneDrive\Escritorio\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\wilte\OneDrive\Escritorio\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto_Piano.Form1.resources
+C:\Users\wilte\OneDrive\Escritorio\Proyecto Piano\Proyecto Piano\x64\Debug\Proyecto Piano.vcxproj.GenerateResource.cache
